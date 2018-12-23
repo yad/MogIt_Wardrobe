@@ -1,0 +1,7 @@
+# Env files
+bin/* 
+obj/* 
+*.log
+
+#IDE files
+.vscode
