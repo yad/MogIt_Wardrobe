@@ -1,8 +1,8 @@
-﻿## Interface: 72000
+﻿## Interface: 80100
 ## Title: MogIt_Wardrobe
 ## Notes: Full "wardrobe" transmog sets module for MogIt
-## Author: Eraclito (Well of Eternity EU)
-## Version: 7.2.0 - 1.0.7
+## Author: Eraclito (Well of Eternity EU), Yad (Dalaran EU)
+## Version: 8.1.0 - 1.1.0
 ## LoadOnDemand: 1
 ## RequiredDeps: MogIt
 ## X-MogItModuleVersion: 3
