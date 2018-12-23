@@ -1,0 +1,14 @@
+﻿## Interface: 72000
+## Title: MogIt_Wardrobe
+## Notes: Full "wardrobe" transmog sets module for MogIt
+## Author: Eraclito (Well of Eternity EU)
+## Version: 7.2.0 - 1.0.7
+## LoadOnDemand: 1
+## RequiredDeps: MogIt
+## X-MogItModuleVersion: 3
+
+MogIt_Wardrobe.lua
+Cloth.lua
+Leather.lua
+Mail.lua
+Plate.lua
